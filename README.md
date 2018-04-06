@@ -1,6 +1,6 @@
 # [DataStart](https://datastart.ru/)
 
-Jбучающая конференция по Data Science, посвященная Big Data и Machine Learning
+Oбучающая конференция по Data Science, посвященная Big Data и Machine Learning
 
 07 Апреля 2018 / Москва
 
