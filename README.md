@@ -4,6 +4,6 @@ Oбучающая конференция по Data Science, посвященна
 
 07 Апреля 2018 / Москва
 
-- Лекция: Игрушечный Data Science. Практические кейсы из геймдева
+- [Лекция](https://github.com/DmitrySerg/DataStart/blob/master/Data%20Science%20in%20GameDev.pdf): Игрушечный Data Science. Практические кейсы из геймдева
 
-- Практика: Как предсказать будущее, экспресс-курс по работе с временными рядами
+- [Практика](https://github.com/DmitrySerg/DataStart/blob/master/TimeSeries_in_Python.ipynb): Как предсказать будущее, экспресс-курс по работе с временными рядами
